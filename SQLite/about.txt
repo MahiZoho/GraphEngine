@@ -1,0 +1,1 @@
+This folder have all the changes done to SQLite source code as part of this project.
